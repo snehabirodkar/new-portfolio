@@ -1,0 +1,5 @@
+export const COLOR = {
+  MAIN_BG: '#000000',
+  MAIN_FONT_COLOR: '#FFFFFF',
+  SECONDARY_COLOR_ORANGE: '#F99A42',
+}

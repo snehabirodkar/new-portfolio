@@ -1,5 +1,12 @@
-function App() {
-  return <div className="">Portfolio</div>;
+import React from 'react'
+import HomePage from './Components/HomePage'
+
+const App = () => {
+  return (
+   <>
+    <HomePage />
+   </>
+  )
 }
 
-export default App;
+export default App
